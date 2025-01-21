@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/shopping-page.git
+git clone https://github.com/Himanshu31bisht/shopping-page.git
 Navigate to the project directory:
 
 bash
